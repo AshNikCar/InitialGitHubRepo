@@ -1,2 +1,2 @@
-# InitialGitHubRepo
-Initial GitHub Repository for Chegg Skills Project
+# Pizza
+Pizza for Chegg Skills Project
